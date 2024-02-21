@@ -41,7 +41,8 @@
     "node-gyp-build": "^4.5.0"
   },
   "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-10"
+    "@abandonware/bluetooth-hci-socket": "^0.5.3-10",
+    "node-ble": "Demo-AI-Edge-Crazy-Train/node-ble#noble-requirements"
   },
   "devDependencies": {
     "async": "^3.2.4",
